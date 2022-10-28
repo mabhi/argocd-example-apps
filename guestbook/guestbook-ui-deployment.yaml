@@ -8,8 +8,8 @@ spec:
   selector:
     matchLabels:
       app: guestbook-ui
-      hello-1: worldy-1
-      hello-2: worldy-2
+      hello1: worldy-1
+      hello2: worldy-2
   template:
     metadata:
       labels:
